@@ -1,0 +1,6 @@
+com/bonitasoft/reactiveworkshop/external/CommentGenerator.java
+ com.bonitasoft.reactiveworkshop.external.CommentGenerator
+com/bonitasoft/reactiveworkshop/external/ExternalApplication.java
+ com.bonitasoft.reactiveworkshop.external.ExternalApplication
+com/bonitasoft/reactiveworkshop/external/Comment.java
+ com.bonitasoft.reactiveworkshop.external.Comment
